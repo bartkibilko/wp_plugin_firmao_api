@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Firmao API Integration
- * Version: 1.0
+ * Version: 1.0.1
  * Author: Bartosz Kibiłko
  * Description: Obsługa API Firmao z wykorzystaniem pluginu Contact Form 7
  */
