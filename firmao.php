@@ -21,7 +21,7 @@ function sendCustomerToFirmao($contactForm)
         $requestData = [
             "description" => "Mail: {$request['your-message']}",
             "emails" => [$request['your-email']],
-            "label" => $request['your-name'] . ' <' . $request['your-email'] . '>',
+            "label" => $request['your-name'],
             "name" => "{$request['your-name']}",
             "phones" => [$request['your-telephone']],
         ];
